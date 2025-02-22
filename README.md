@@ -44,8 +44,6 @@ The testbench for this project generates clock and reset signals and monitors pr
 
 Pipelining is a fundamental technique in processor design, allowing for parallel instruction execution and improved throughput. By breaking down instruction execution into separate stages, multiple instructions can be processed at once, reducing idle time and increasing overall performance.
 
-This project serves as a solid foundation for understanding pipelined processor architecture and could be expanded with additional instructions, hazard handling, and memory access capabilities. Let me know if you’d like me to refine or add anything!
-
 
 
 #output
