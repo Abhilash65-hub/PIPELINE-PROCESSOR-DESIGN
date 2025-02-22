@@ -8,7 +8,7 @@ DOMAIN:VLSI
 DURATION:JAN - MARCH 2025
 MENTOR: NEELA SANTHOSH
 
-overview of this project
+overview of this project 
 This project involves the design and verification of a 4-stage pipelined processor using Verilog, aimed at executing simple arithmetic and data movement instructions. The processor architecture is divided into four key pipeline stages: Fetch (IF), Decode (ID), Execute (EX), and Writeback (WB). Each stage performs a specific task, allowing multiple instructions to be in different stages of execution simultaneously — a technique that significantly improves processor efficiency and throughput. Let’s take a detailed look at each stage and the overall project.
 
 1. Pipeline Stages:
