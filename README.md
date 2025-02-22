@@ -50,3 +50,4 @@ This project serves as a solid foundation for understanding pipelined processor 
 
 #output
 
+![Image](https://github.com/user-attachments/assets/2499cb6e-c5b7-4171-a278-37ed6401a2b3)
